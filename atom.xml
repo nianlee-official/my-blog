@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NianLee&#39;s Blog</title>
+  <icon>https://www.nianlee.top/icon.png</icon>
+  
+  <link href="https://www.nianlee.top/atom.xml" rel="self"/>
+  
+  <link href="https://www.nianlee.top/"/>
+  <updated>2025-01-05T03:08:39.000Z</updated>
+  <id>https://www.nianlee.top/</id>
+  
+  <author>
+    <name>NianLee</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>微波技术</title>
+    <link href="https://www.nianlee.top/post/microwave-technology-zsmerq.html"/>
+    <id>https://www.nianlee.top/post/microwave-technology-zsmerq.html</id>
+    <published>2025-01-03T12:13:34.000Z</published>
+    <updated>2025-01-05T03:08:39.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;第二章 传输线理论&lt;/h1&gt;
+&lt;p&gt;微波的频率范围:3GHz~300GHz&lt;/p&gt;
+&lt;p&gt;传输线方程（电报方程）&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;katex-display&quot;&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="课程笔记" scheme="https://www.nianlee.top/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="微波技术" scheme="https://www.nianlee.top/tags/%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>天线原理</title>
+    <link href="https://www.nianlee.top/post/antenna-principle-gxcsv.html"/>
+    <id>https://www.nianlee.top/post/antenna-principle-gxcsv.html</id>
+    <published>2024-12-15T06:57:56.000Z</published>
+    <updated>2024-12-15T12:09:07.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;第二章 天线的特性参数&lt;/h1&gt;
+&lt;p&gt;天线对于传输线系统来说,可以等效为负载阻抗 &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math</summary>
+        
+      
+    
+    
+    
+    <category term="课程笔记" scheme="https://www.nianlee.top/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="天线原理" scheme="https://www.nianlee.top/tags/%E5%A4%A9%E7%BA%BF%E5%8E%9F%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>STM32H7 DMA与ld文件</title>
+    <link href="https://www.nianlee.top/post/stm32h7-dma-and-ld-files-zu5xfb.html"/>
+    <id>https://www.nianlee.top/post/stm32h7-dma-and-ld-files-zu5xfb.html</id>
+    <published>2024-09-27T14:18:06.000Z</published>
+    <updated>2024-09-27T14:26:21.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;最近把项目构建工具链由&lt;code&gt;STM32CubeIDE&lt;/code&gt;​换成了&lt;code&gt;CMake&lt;/code&gt;​，在测试过程中发现原先的LCD代码无法使用，经过排查后发现是&lt;code&gt;SPI3&lt;/code&gt;​的&lt;code&gt;DMA&lt;/code&gt;​传输出了问题，下面是问题</summary>
+        
+      
+    
+    
+    
+    <category term="技术分享" scheme="https://www.nianlee.top/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="STM32" scheme="https://www.nianlee.top/tags/STM32/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>STM32 CMake</title>
+    <link href="https://www.nianlee.top/post/stm32-cmake-z1gc8wj.html"/>
+    <id>https://www.nianlee.top/post/stm32-cmake-z1gc8wj.html</id>
+    <published>2024-03-21T12:39:29.000Z</published>
+    <updated>2024-03-21T12:50:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;本文已过时，STM32CubeMX已官方支持CMake，最新配置模板请参考本人仓库&lt;/strong&gt; ​ &lt;strong&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="技术分享" scheme="https://www.nianlee.top/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="STM32" scheme="https://www.nianlee.top/tags/STM32/"/>
+    
+    <category term="CMake" scheme="https://www.nianlee.top/tags/CMake/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RTT使用方法 </title>
+    <link href="https://www.nianlee.top/post/how-to-use-rtt-zu9pml.html"/>
+    <id>https://www.nianlee.top/post/how-to-use-rtt-zu9pml.html</id>
+    <published>2024-03-13T12:39:19.000Z</published>
+    <updated>2024-03-13T12:47:37.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;简介&lt;/h1&gt;
+&lt;p&gt;Real Timer</summary>
+        
+      
+    
+    
+    
+    <category term="RM电控" scheme="https://www.nianlee.top/categories/RM%E7%94%B5%E6%8E%A7/"/>
+    
+    
+    <category term="RoboMaster" scheme="https://www.nianlee.top/tags/RoboMaster/"/>
+    
+    <category term="STM32" scheme="https://www.nianlee.top/tags/STM32/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开发环境</title>
+    <link href="https://www.nianlee.top/post/development-environment-zryuu6.html"/>
+    <id>https://www.nianlee.top/post/development-environment-zryuu6.html</id>
+    <published>2024-01-22T12:39:07.000Z</published>
+    <updated>2024-01-22T14:19:25.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;本文已过时，建议使用CMake开发&lt;/strong&gt;&lt;/p&gt;
+&lt;h1&gt;开发环境&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;使用keil开发&lt;br&gt;
+使用keil开发时注意选择AC5编译器进行编译，不要使用AC6，在最新版keil中安装不再预装AC5编译器，需要手动</summary>
+        
+      
+    
+    
+    
+    <category term="RM电控" scheme="https://www.nianlee.top/categories/RM%E7%94%B5%E6%8E%A7/"/>
+    
+    
+    <category term="RoboMaster" scheme="https://www.nianlee.top/tags/RoboMaster/"/>
+    
+    <category term="STM32" scheme="https://www.nianlee.top/tags/STM32/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RoboMaster C板硬件介绍</title>
+    <link href="https://www.nianlee.top/post/robomaster-c-board-hardware-introduction-z1ohxhm.html"/>
+    <id>https://www.nianlee.top/post/robomaster-c-board-hardware-introduction-z1ohxhm.html</id>
+    <published>2024-01-21T12:38:58.000Z</published>
+    <updated>2024-01-21T12:44:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;硬件介绍&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://img.nianlee.top/2024/01/20240106-be5a61.png&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="RM电控" scheme="https://www.nianlee.top/categories/RM%E7%94%B5%E6%8E%A7/"/>
+    
+    
+    <category term="RoboMaster" scheme="https://www.nianlee.top/tags/RoboMaster/"/>
+    
+    <category term="STM32" scheme="https://www.nianlee.top/tags/STM32/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>指针</title>
+    <link href="https://www.nianlee.top/post/pointer-z1vn2fp.html"/>
+    <id>https://www.nianlee.top/post/pointer-z1vn2fp.html</id>
+    <published>2023-02-11T12:20:54.000Z</published>
+    <updated>2023-02-11T12:30:11.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;指针和指针类型&quot;&gt;&lt;strong&gt;指针和指针类型&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;32位&lt;/p&gt;
+&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="课程笔记" scheme="https://www.nianlee.top/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="C语言" scheme="https://www.nianlee.top/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>预处理</title>
+    <link href="https://www.nianlee.top/post/pre-processing-z22gxii.html"/>
+    <id>https://www.nianlee.top/post/pre-processing-z22gxii.html</id>
+    <published>2023-02-11T12:20:46.000Z</published>
+    <updated>2023-02-11T12:29:41.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;程序的翻译环境和运行环境&lt;/h1&gt;
+&lt;p&gt;从&lt;code&gt;.c -&amp;gt; .exe&lt;/code&gt;翻译环境&lt;br&gt;
+翻译分为编译(编译器)和链接(链接器)两个过程&lt;/p&gt;
+&lt;p&gt;每个源文件都会经过编译器的 &lt;strong&gt;单独处理&lt;/strong&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="课程笔记" scheme="https://www.nianlee.top/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="C语言" scheme="https://www.nianlee.top/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据的存储</title>
+    <link href="https://www.nianlee.top/post/data-storage-z2abdif.html"/>
+    <id>https://www.nianlee.top/post/data-storage-z2abdif.html</id>
+    <published>2023-02-11T12:20:35.000Z</published>
+    <updated>2023-02-11T12:28:58.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;&lt;strong&gt;数据类型&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;32位&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;内置类型&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;char      1个字节&lt;br&gt;
+short     2个字节&lt;br&gt;
+int         4个字节&lt;br&gt;
+long    </summary>
+        
+      
+    
+    
+    
+    <category term="课程笔记" scheme="https://www.nianlee.top/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="C语言" scheme="https://www.nianlee.top/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>结构体</title>
+    <link href="https://www.nianlee.top/post/structure-z1dqojh.html"/>
+    <id>https://www.nianlee.top/post/structure-z1dqojh.html</id>
+    <published>2023-02-11T12:20:25.000Z</published>
+    <updated>2023-02-11T12:28:25.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;结构体&lt;/h1&gt;
+&lt;h2 id=&quot;结构体的声明&quot;&gt;结构体的声明&lt;/h2&gt;
+&lt;h3 id=&quot;常规声明&quot;&gt;常规声明&lt;/h3&gt;
+&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="课程笔记" scheme="https://www.nianlee.top/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="C语言" scheme="https://www.nianlee.top/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>操作符</title>
+    <link href="https://www.nianlee.top/post/operator-z1a8dz2.html"/>
+    <id>https://www.nianlee.top/post/operator-z1a8dz2.html</id>
+    <published>2023-02-11T12:20:16.000Z</published>
+    <updated>2023-02-11T12:24:05.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;原码、反码、补码&quot;&gt;&lt;strong&gt;原码、反码、补码&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;存储到内存中的是补码&lt;br&gt;
+正整数原码反码补码都相同&lt;br&gt;
+原码&lt;br&gt;
+反码：符号位不变，其他位按位取反&lt;br&gt;
+补码：反码+1&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="课程笔记" scheme="https://www.nianlee.top/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="C语言" scheme="https://www.nianlee.top/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>动态内存</title>
+    <link href="https://www.nianlee.top/post/dynamic-memory-z1hxop2.html"/>
+    <id>https://www.nianlee.top/post/dynamic-memory-z1hxop2.html</id>
+    <published>2023-02-11T12:14:52.000Z</published>
+    <updated>2023-02-11T12:22:17.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;局部变量   —   栈区&lt;br&gt;
+全局变量   —   静态区&lt;/p&gt;
+&lt;p&gt;栈区   —   局部变量，函数的形参&lt;br&gt;
+堆区   —   动态内存分配&lt;br&gt;
+静态区   —  </summary>
+        
+      
+    
+    
+    
+    <category term="课程笔记" scheme="https://www.nianlee.top/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="C语言" scheme="https://www.nianlee.top/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VSCode配置避坑指南</title>
+    <link href="https://www.nianlee.top/post/vscode-configuration-to-avoid-pit-guidelines-z1swrf1.html"/>
+    <id>https://www.nianlee.top/post/vscode-configuration-to-avoid-pit-guidelines-z1swrf1.html</id>
+    <published>2023-02-10T12:38:47.000Z</published>
+    <updated>2023-02-10T12:39:51.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+&lt;p&gt;以下是vscode的简单配置步骤，主要围绕.vscode文件夹的配置展开，由于网上对于VSCode的安装和MinGW的下载和环境变量的配置教程较多也很简单，本文不再赘述。</summary>
+        
+      
+    
+    
+    
+    <category term="技术分享" scheme="https://www.nianlee.top/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="VSCode" scheme="https://www.nianlee.top/tags/VSCode/"/>
+    
+  </entry>
+  
+</feed>
